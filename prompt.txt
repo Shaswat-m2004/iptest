@@ -1,0 +1,10 @@
+ok nice but there are few issues now
+1. we have added the specific counter number option 
+but now if user want to test 10 counter or 15 counter then they will have to enter the counter number for all counter 
+instead provide 3 options
+first where user will enter the no of counter they want to test
+second where user will enter the number of counter for which they want to test sseparated by commas
+and at a time only one of these input will be enabled
+thired :  user will enter the counter number for beauty counter like 1,3,5
+and accordly ping will be sent
+if nothing is mentioned there then all the beauty counters will be checked
